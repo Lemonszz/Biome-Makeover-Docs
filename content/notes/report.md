@@ -6,6 +6,7 @@ aliases:
 - bugs
 - issues
 - glitches
+enableToc: false
 ---
 
 # Bug Reporting
