@@ -1,5 +1,5 @@
 ---
-title:  Biome Makeover
+title:  💽 Installation
 enableToc: false
 ---
 
