@@ -10,7 +10,7 @@ We aim for our changes to be vanilla friendly and suited for any modpack.
 
 ## Getting Help
 
-Running into an issue? Check out these links:
+Running into an issue? Check out these links:  
 🐛[Report a Bug](notes/report)  
 💽[Installation](notes/installation)  
 
