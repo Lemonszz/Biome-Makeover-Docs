@@ -28,16 +28,9 @@ When killed Rootlings will drop:
 | Attack Damage | 2.0 |
 
 ## Configuration
-Owls will attack any mob with the `biomemakeover:owl_targets` entity type tag.
+Moths will be attacked to light blocks as well as any blocks with the `biomemakeover:moth_attractive` block tag.
 
 By default these are:
 ```
-"minecraft:rabbit",  
-"minecraft:chicken",  
-"minecraft:silverfish",  
-"minecraft:endermite",  
-"minecraft:bat",   
-"biomemakeover:dragonfly",  
-"biomemakeover:lightning_bug",  
-"biomemakeover:lightning_bug_alternate"
+"biomemakeover:moth_blossom"
 ```
