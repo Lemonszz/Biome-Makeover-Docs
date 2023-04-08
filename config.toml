@@ -1,4 +1,4 @@
-baseURL = "http://biomemakeover.laserknights.com/"
+baseURL = "https://biomemakeover.laserknights.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
