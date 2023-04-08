@@ -59,6 +59,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - ⚡[Redstone Functional](notes/blocks/redstone)
 - ⚒️[Tools and Utilities](notes/items/tools)
 - 🍓[Food](notes/items/food)
+- 🌺[Petals](notes/items/petals)
 
 ### Configuration
 - ⚙️[Data Packs](notes/config/datapack)

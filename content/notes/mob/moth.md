@@ -17,7 +17,7 @@ Moths will attack the player on sight.  It spawns at night in the Dark Forest
 They are attracted to blocks that give off light as well as the [Moth Blossom]() block.
 
 ## Drops
-When killed Rootlings will drop:
+When killed Moths will drop:
 - 0 - 2 [Moth Scales]()
 
 ## Stats
