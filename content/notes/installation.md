@@ -12,7 +12,7 @@ The easiest way to install Biome Makeover is through the CurseForge app. Follow 
 
 ## Choosing a Modloader
 
-You have two options: [Fabric](https://fabricmc.net/use/installer/) or [Forge](minecraftforge.net)
+You have two options: [Fabric](https://fabricmc.net/use/installer/) or [Forge](https://minecraftforge.net)
 
 If you're not sure, we recommended Fabric.
 
