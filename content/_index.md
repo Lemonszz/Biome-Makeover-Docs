@@ -41,12 +41,26 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 🦉[Owl](notes/mob/owl)
 - 🥔[Rootling](notes/mob/rootling)
 - 🦋[Moth](notes/mob/moth)
-- 🪨[Stone Golem][notes/mob/stone_golem]
+- 🪨[Stone Golem](notes/mob/stone_golem)
 - 😵[Decayed](notes/mob/decayed)
 - 🌟[Lightning Bug](notes/mob/lightning_bug)
 - 🐉[Dragonfly](notes/mob/dragonfly)
 - 🦹🏾[Bandit](notes/mob/bandit)
 - 🦎[Scuttler](notes/mob/scuttler)
 - 👻[Ghost](notes/mob/ghost)
-- 🍄[Mushroom Trader][notes/mob/mushroom_trader]
+- 🍄[Mushroom Trader](notes/mob/mushroom_trader)
 - 🐡[Glowfish](notes/mob/glowfish)
+
+### Blocks & Items
+- 🎨[Decoration Blocks](notes/blocks/decoration)
+- 🎩[Hats and Armor](notes/items/hats_and_armor)
+- 🌲[Natural Blocks](notes/blocks/natural)
+- ⚡[Redstone Functional](notes/blocks/redstone)
+- ⚒️[Tools and Utilities](notes/items/tools)
+- 🍓[Food](notes/items/food)
+
+### Configuration
+- ⚙️[Data Packs](notes/config/datapack)
+- 🧹[Custom Witch Quests and Rewards](notes/config/witch_quests)
+- 🏷️[Tags](notes/config/tags)
+- 🦦[Other](notes/config/other)
