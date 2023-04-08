@@ -42,6 +42,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 🥔[Rootling](notes/mob/rootling)
 - 🦋[Moth](notes/mob/moth)
 - 🪨[Stone Golem](notes/mob/stone_golem)
+- 🧙‍♂️[Adjudicator](notes/mob/adjudicator)
 - 😵[Decayed](notes/mob/decayed)
 - 🌟[Lightning Bug](notes/mob/lightning_bug)
 - 🐉[Dragonfly](notes/mob/dragonfly)
