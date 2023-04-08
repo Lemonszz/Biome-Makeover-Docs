@@ -1,8 +1,9 @@
 ---
-title: "Owl"
+title: "🦉 Owl"
 tags:
 - mobs
 - tameable
+- dark forest
 ---
 
 ![[notes/images/owls.png]]
