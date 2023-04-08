@@ -37,12 +37,17 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 💦[Sunken Ruin](notes/structure/sunken_ruin)
 - 👻[Ghost Town](notes/structure/ghost_town)
 
+### World Generation
+- 🌴[Trees](notes/generation/trees)
+- 🌒[Illunite Fissures](notes/generation/illunite_fissures)
+
 ### Mobs
 - 🦉[Owl](notes/mob/owl)
 - 🥔[Rootling](notes/mob/rootling)
 - 🦋[Moth](notes/mob/moth)
 - 🪨[Stone Golem](notes/mob/stone_golem)
 - 🧙‍♂️[Adjudicator](notes/mob/adjudicator)
+- 🦀[Helmit Crab](notes/mob/helmit_crab)
 - 😵[Decayed](notes/mob/decayed)
 - 🌟[Lightning Bug](notes/mob/lightning_bug)
 - 🐉[Dragonfly](notes/mob/dragonfly)
