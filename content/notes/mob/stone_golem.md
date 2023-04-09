@@ -10,7 +10,7 @@ tags:
 
 Stone Golems are added as part of the [Dark Forest](notes/makeover/dark_forest) makeover.   
 
-Stone Golems are constucted sentries that will shoot hostile mobs for you.
+Stone Golems are constructed sentries that will shoot hostile mobs for you.
 
 ## Behavior
 Player built Stone Golems will shoot a crossbow at any nearby hostile mob.  They can not move, but instead rotate around their base.  
