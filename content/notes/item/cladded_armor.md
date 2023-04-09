@@ -12,16 +12,17 @@ Cladded Amor was added with the [Dark Forest](notes/makeover/dark_forest) makeov
 
 It can be naturally found within [Woodland Mansions](notes/structure/mansion) or crafted with Leather Armor and [Crude Cladding](notes/item/crude_cladding) in a Smithing Table.
 
+Cladded Armor has a [Projectile Resistance](notes/mechanic/projectile_resistance) attribute, giving it a defense stat of 21 against projectile weapons, slightly higher than Diamond Armor's defense of 20.
 
 ### Stats
 | Stat | Helmet | Chestplate | Leggings | Boots | Full Set |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Defence | 2 | 5 | 4 | 1 | 12 |
+| Defense | 2 | 6 | 5 | 2 | 15 |
 | Toughness | 0 | 0 | 0 | 0 | 0 |
 | Knockback Resistance | 7% | 7% |  7% | 7% | 28% |
 | Enchantability | 15 | 15 | 15 | 15 |
 | Durability | 165 | 240 | 225 | 195 |
-| [Projectile Resistance](notes/mechanic/projectile_resistance) |  1 | 1 | 1 | 1 | 4 |
+| [Projectile Resistance](notes/mechanic/projectile_resistance) |  1.5 | 1.5 | 1.5 | 1.5 | 6 |
 
 
 
