@@ -7,7 +7,8 @@ tags:
 
 The Dark Forest makeover was the 4th makeover in the mod. It was originally released on the 13th  of April 2021.
 
-<iframe width="761" height="428" src="https://www.youtube.com/embed/5aQJNwvrX4A" title="Biome Makeover - Dark Forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="761" height="428" src="https://www.youtube.com/embed/5aQJNwvrX4A" title="Biome Makeover - Dark Forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 ## Mechanics
 - 🔮[Curse Enchanting](notes/mechanic/curse_enchanting)
 - [Projectile Resistance](notes/mechanic/projectile_resistance)
