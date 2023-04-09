@@ -36,7 +36,7 @@ Some unique loot that can be found in the mansion is:
 - [Crude Cladding](notes/item/crude_cladding)
 - [Cladded Armor](notes/item/cladded_armor)
 - [Illunite Shard](notes/item/illunite_shard)
-- [Red Rose Music Disc](notes/item/discs#dark-forest)
+- [Red Rose Music Disc](notes/item/discs)
 
 As well as other tools and resources from vanilla Minecraft
 
