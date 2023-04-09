@@ -9,7 +9,7 @@ tags:
 
 ## About
 
-Curse Enchanting is done with an [Altar]() which can either be found in the [Woodland Mansion](notes/structure/mansion) or crafted.
+Curse Enchanting is done with an [Altar](notes/block/altar) which can either be found in the [Woodland Mansion](notes/structure/mansion) or crafted.
 
 Curse Enchanting will take one enchantment on an item, increase its level by 1 and add a random curse.
 
