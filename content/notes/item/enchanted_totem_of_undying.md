@@ -4,6 +4,8 @@ tags:
 - item
 - utility
 - dark forest
+aliases:
+- enchanted_totem
 ---
 
 The Enchanted Totem of Undying is obtained from the [Adjudicator](notes/imob/adjudicator).
