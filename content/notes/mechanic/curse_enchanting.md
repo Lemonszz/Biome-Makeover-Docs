@@ -25,7 +25,7 @@ For a item to be valid for cursing it must:
 - Already have an enchantment
 - Must not have been cursed in an altar before
 
-Place this item in the top slot of an altar along with an [Illunite Shard](), this will begin the cursing process.
+Place this item in the top slot of an altar along with an [Illunite Shard](notes/item/illunite_shard), this will begin the cursing process.
 
 Once the process is over, your item will have been cursed, and a random enchantment will have gained 1 level.
 
