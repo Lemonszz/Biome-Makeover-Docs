@@ -28,7 +28,7 @@ The following friendly/neutral mobs spawn in the mansion and do not respawn
 ## Blocks
 Some unique blocks that can be found within the mansion are:
 - [Tapestries](notes/block/tapestries)
-- [Altars](notes/block/altar)
+- [Altar](notes/block/altar)
 - [Cladded Stone](notes/block/cladded_stone)
 
 ## Loot

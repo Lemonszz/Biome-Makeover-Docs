@@ -1,5 +1,9 @@
 ---
 title: "Altar"
+tags:
+- item
+- dark forest
+- enchantment
 ---
 
 ![[notes/images/altar.png]]

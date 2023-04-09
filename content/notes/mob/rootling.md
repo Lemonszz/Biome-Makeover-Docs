@@ -25,12 +25,12 @@ Over time, or if bonemeal is used on them, their petals will regrow as a random 
 Sitting in water or rain will decrease the time it takes to regrow their petals.
 
 ## Growing
-Rootlings can not be bred by normal means, they must be grown with [Rootling Seeds] planted in tilled dirt. Once the crop has grown, they will shoot up out of the ground as a fully grown rootling.
+Rootlings can not be bred by normal means, they must be grown with [Rootling Seeds](notes/item/rootling_seeds) planted in tilled dirt. Once the crop has grown, they will shoot up out of the ground as a fully grown rootling.
 
 ## Drops
 When killed Rootlings will drop:
-- 1 - 2 [Rootling Seeds]() 
-- 1 [Bulbus Root]()
+- 1 - 2 [Rootling Seeds](notes/item/rootling_seeds) 
+- 1 [Bulbus Root](notes/item/bulbus_root)
 
 ## Colors
 Rootlings come in the following colors:

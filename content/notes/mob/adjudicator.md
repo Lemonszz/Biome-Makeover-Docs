@@ -24,8 +24,8 @@ During the fight he will summon enemies, teleport around and attack you with a v
 
 ## Drops
 When killed Rootlings will drop:
-- 1 [Adjudicator Tapestry]()
-- 1 [Enchanted Totem of Undying]()
+- 1 [Adjudicator Tapestry](notes/block/tapestries)
+- 1 [Enchanted Totem of Undying](notes/item/enchanted_totem_of_undying)
 
 ## Stats
 | Stat | Value |

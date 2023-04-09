@@ -14,11 +14,11 @@ The Moth is a hostile mob added as part of the [Dark Forest](notes/makeover/dark
 ## Behavior
 Moths will attack the player on sight.  It spawns at night in the Dark Forest
 
-They are attracted to blocks that give off light as well as the [Moth Blossom]() block.
+They are attracted to blocks that give off light as well as the [Moth Blossom](notes/block/moth_blossom) block.
 
 ## Drops
 When killed Moths will drop:
-- 0 - 2 [Moth Scales]()
+- 0 - 2 [Moth Scales](notes/item/moth_scales)
 
 ## Stats
 | Stat | Value |
