@@ -33,15 +33,16 @@ Once the process is over, your item will have been cursed, and a random enchantm
 
 Along with the vanilla curses, Biome Makeover adds several of its own:
 
-| Curse | Effect |
-| ----- | ----- | 
-| Decay | Items will degrade faster |
-| Insomnia | Phantoms will appear faster |
-| Conductivity | Attracts lightning during storms |
-| Enfeeblement | Max health is reduced | 
-| Depths | Drags you to the ocean floor when in water | 
-| Flammability | Fire will last longer | 
-| Suffocation | Reduces your max oxygen | 
-| Unwieldiness | Reduces attack speed | 
-| Inaccuracy | Refuces accuracy with bows and crossbows |
-| Buckling | Increases fall damage |
+| Curse | Effect | ID |
+| ----- | ----- | -----| 
+| Decay | Items will degrade faster | biomemakeover:decay_curse |
+| Insomnia | Phantoms will appear faster |  biomemakeover:insomnia_curse |
+| Conductivity | Attracts lightning during storms |  biomemakeover:conductivity_curse |
+| Enfeeblement | Max health is reduced | biomemakeover:enfeeblement_curse |
+| Depths | Drags you to the ocean floor when in water |  biomemakeover:depth_curse |
+| Flammability | Fire will last longer | biomemakeover:flammability_curse |
+| Suffocation | Reduces your max oxygen | biomemakeover:suffocation_curse |
+| Unwieldiness | Reduces attack speed |  biomemakeover:unwieldiness_curse | 
+| Inaccuracy | Refuces accuracy with bows and crossbows |  biomemakeover:inaccuracy_curse |
+| Buckling | Increases fall damage |  biomemakeover:buckling_curse |
+
