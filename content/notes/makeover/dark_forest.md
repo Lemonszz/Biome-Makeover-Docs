@@ -17,7 +17,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 🏠[Woodland Mansion Rework](notes/structure/mansion)
 
 ## World Generation
-- [Illunite Fissures](notes/generation/illunite_fissues)
+- [Illunite Fissures](notes/generation/illunite_fissure)
 - [Ancient Oak Trees](notes/generation/ancient_oak)
 - [Single Dark Oak Trees](notes/generation/single_dark_oak)
 - [Ivy](notes/block/ivy)
