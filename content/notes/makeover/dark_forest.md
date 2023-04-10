@@ -25,7 +25,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Moth Blossoms](notes/block/moth_blossom)
 - [Wild Mushrooms](notes/block/wild_mushrooms)
 - [Foxglove](notes/block/foxglove)
-- [Black Thistle](notes/bock)
+- [Black Thistle](notes/block/black_thistle)
 
 ## Mobs
 - 🦉[Owl](notes/mob/owl)
