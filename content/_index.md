@@ -3,8 +3,6 @@ title:  Biome Makeover
 enableToc: false
 ---
 
-# Biome Makeover
-
 Biome Makeover is a mod designed to give specific biomes a fresh coat of paint.  
 We aim for our changes to be vanilla friendly and suited for any modpack.
 
@@ -39,7 +37,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 
 ### World Generation
 - 🌴[Trees](notes/generation/trees)
-- 🌒[Illunite Fissures](notes/generation/illunite_fissures)
+- 🌒[Illunite Fissures](notes/generation/illunite_fissure)
 
 ### Mobs
 - 🦉[Owl](notes/mob/owl)
