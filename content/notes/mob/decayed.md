@@ -16,7 +16,7 @@ Decayed will spawn in the swamp water a night.
 
 Decayed will attack the player on sight. Decayed will follow the player from the water and chase on land if need be.
 
-Decayed always spawn with a shield enchanted with the [Curse of Decay](notes/mechanic/curse_enchanting). They will block with this shield. 
+Decayed always spawn with a shield enchanted with the [Curse of Decay](notes/mechanic/curses). They will block with this shield. 
 
 The shield can take up to 30 points of damage before breaking. 
 
