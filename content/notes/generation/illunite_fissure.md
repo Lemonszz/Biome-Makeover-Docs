@@ -1,5 +1,5 @@
 ---
-title: "Illunite Fissure"
+title: "🌒 Illunite Fissure"
 tags:
 - generation
 - dark forest
