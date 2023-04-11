@@ -25,6 +25,7 @@ The Swamp makeover was the 3rd makeover in the mod. It was originally released o
 - [Reeds & Cattails](notes/block/reeds_and_cattails)
 - [Small Lily Pads](notes/block/small_lily_pad)
 - [Water Lily](notes/block/water_lily)
+- [Willowing Branches](notes/block/willowing_branches)
 
 ## Mobs
 - 😵[Decayed](notes/mob/decayed)
