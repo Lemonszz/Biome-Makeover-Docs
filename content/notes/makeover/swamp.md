@@ -33,6 +33,8 @@ The Swamp makeover was the 3rd makeover in the mod. It was originally released o
 
 ## Blocks
 - [Dried Peat](notes/block/dried_peat)
+- [Dried Peat Bricks](notes/block/dried_peat_bricks)
+- [Peat Farmland](notes/block/peat_farmland)
 - [Lightning Bug Bottle](notes/block/lightning_bug_bottle)
 
 ## Items
