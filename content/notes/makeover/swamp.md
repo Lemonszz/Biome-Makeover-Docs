@@ -11,6 +11,7 @@ The Swamp makeover was the 3rd makeover in the mod. It was originally released o
 ## Mechanics
 - 🧙‍♀️ [Witch Quests](notes/mechanic/witch_quest)
 - [Shocked Effect](notes/mechanic/shocked)
+- [Swamp Bonemealing](notes/mechanic/swamp_bonemealing)
 
 ## Structures
 💦 [Sunken Ruins](notes/structure/sunken_ruins)
@@ -41,3 +42,7 @@ The Swamp makeover was the 3rd makeover in the mod. It was originally released o
 - [Soul Embers](notes/item/soul_embers)
 - [Witch Hat](notes/item/witch_hat)
 
+## Removed Features
+The original release for the swamp makeover contained Toads and Tadpoles, these were removed in 1.19 due to their similarity to vanilla Frogs. 
+
+You can currently still spawn Toads and Tadpoles with commands and they remain fully functional.
