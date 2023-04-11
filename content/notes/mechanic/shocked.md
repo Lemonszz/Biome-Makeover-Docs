@@ -3,6 +3,7 @@ title: "Shocked"
 tags:
 - swamp
 - effect
+- mechanics
 ---
 
 Shocked is a status effect that will reduce an entity's max health while activate.

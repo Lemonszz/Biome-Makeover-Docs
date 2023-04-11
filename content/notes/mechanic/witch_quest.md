@@ -3,6 +3,8 @@ title: "🧙‍♀️ Witch Quests"
 tags:
 - swamp
 - mechanics
+aliases:
+- witch_quests
 ---
 
 ## About
