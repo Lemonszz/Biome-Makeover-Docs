@@ -26,5 +26,5 @@ Like [Ghosts](notes/mob/ghost), the poltergeist can interact with blocks around 
 
 If a redstone signal is applied to the Poltergeist block, it will be disabled and will not interact with blocks.
 
-It will interact with blocks within a 2 block distance from the center, as shown in this image
+It will interact with blocks within a 2 block distance from the center, as shown in this image:  
 ![[notes/images/poltergeist_range.png]]
