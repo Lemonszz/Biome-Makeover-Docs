@@ -33,7 +33,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 ### Structures
 - 🏠[Woodland Mansion Rework](notes/structure/mansion)
 - 💦[Sunken Ruin](notes/structure/sunken_ruins)
-- 👻[Ghost Town](notes/structure/ghost_town)
+- 🏚️[Ghost Town](notes/structure/ghost_town)
 
 ### World Generation
 - 🌴[Trees](notes/generation/trees)
