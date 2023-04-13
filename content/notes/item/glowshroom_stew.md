@@ -8,7 +8,7 @@ tags:
 
 Glowshroom Stew was added with the [Mushroom Fields](notes/makeover/mushroom_fields) makeover.
 
-It is crafted by combining [Purple](items/block/purple_glowshroom), [Green](notes/item/green_glowshroom) and [Orange](notes/item/orange_glowshroom) Glowshrooms along with a Bowl.
+It is crafted by combining [Purple](notes/block/purple_glowshroom), [Green](notes/block/green_glowshroom) and [Orange](notes/block/orange_glowshroom) Glowshrooms along with a Bowl.
 
 ## Food Stats
 | Stat | Value|
