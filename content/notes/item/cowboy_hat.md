@@ -10,7 +10,7 @@ tags:
 
 The Cowboy Hat was added with the [Badlands](notes/makeover/badlands) makeover.
 
-It can be naturally found within [Ghost Towns](notes/structure/ghost_town) or as a drop from [Cowboys](notes/mob/cowboy).
+It can be naturally found within [Ghost Towns](notes/structure/ghost_town) or as a drop from [Marauders](notes/mob/marauder.md).
 
 
 ### Stats
