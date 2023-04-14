@@ -20,7 +20,8 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Purple Glowshroom](notes/block/purple_glowshroom)
 - [Orange Glowshroom](notes/block/orange_glowshroom)
 - [Huge Glowshrooms](notes/generation/huge_glowshrooms)
-- [Tall Mushrooms](notes/block/tall_mushrooms)
+- [Tall Red Mushrooms](notes/block/tall_red_mushrooms)
+- [Tall Brown Mushrooms](notes/block/tall_brown_mushrooms)
 - [Mycelium Roots](notes/block/mycelium_roots)
 - [Mycelium Sprouts](notes/block/mycelium_sprouts)
 - [Underground Mycelium Patches](notes/generation/underground_mycelium)
@@ -31,7 +32,8 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 
 ## Blocks
 - [Mushroom Bricks](notes/block/mushroom_bricks)
-- [Blighted Stone](notes/block/blighted_stone)
+- [Blighted Cobblestone](notes/block/blighted_cobblestone)
+- [Blighted Stone Bricks](notes/block/blighted_stone_bricks)
 
 ## Items
 - [Button Mushrooms Music Disc](notes/item/discs)
