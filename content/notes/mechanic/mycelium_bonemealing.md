@@ -6,7 +6,7 @@ tags:
 ---
 
 Bonemealing Mycelium blocks can yield the following:  
-- [Mycelium Sprouts](notes/block/mycelium_sproute)
+- [Mycelium Sprouts](notes/block/mycelium_sprouts)
 - [Mycelium Roots](notes/block/mycelium_roots)
 - [Purple Glowshroom](notes/block/purple_glowshroom)
 - [Green Glowshroom](notes/block/green_glowshroom)

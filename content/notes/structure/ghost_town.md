@@ -8,7 +8,9 @@ tags:
 ![[notes/images/ghost_town.png]]
 ## About
 
-Ghost Towns were added with the [Badlands](notes/makeover/badlands) makeover.
+Ghost Towns were added with the [Badlands](notes/makeover/badlands) makeover.  
+
+Buildings within Ghost Towns are primarily made up of Terracotta and [Terracotta Bricks](notes/block/terracotta_bricks).
 
 ## Mobs
 [Ghosts](notes/mob/ghost) spawn in dark areas of the Ghost Town. 

@@ -14,6 +14,6 @@ Green Glowshrooms were added with the [Mushroom Fields](notes/makeover/mushroom_
 They can be naturally found in caves under the Mushroom Fields biome.  
 New Green Glowshrooms can be generated when [Bonemealing Mycelium](notes/mechanic/mycelium_bonemealing).
 
-Bonemealing the Mushrooms will generate [Tall Green Glowshrooms](notes/generation/tall_green_glowshroom)
+Bonemealing the Mushrooms will generate [Huge Green Glowshrooms](notes/generation/huge_glowshrooms.md)
 
 They are used in the recipe for [Glowshroom Stew](notes/item/glowshroom_stew).  
