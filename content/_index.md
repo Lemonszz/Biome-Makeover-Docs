@@ -52,7 +52,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 🏇🏾[Marauder](notes/mob/marauder)
 - 🦎[Scuttler](notes/mob/scuttler)
 - 👻[Ghost](notes/mob/ghost)
-- 🍄[Mushroom Trader](notes/mob/mushroom_trader)
+- 🧟‍♂️[Mushroom Trader](notes/mob/mushroom_trader)
 - 🐡[Glowfish](notes/mob/glowfish)
 
 ### Blocks & Items
