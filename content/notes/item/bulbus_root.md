@@ -10,7 +10,7 @@ Bulbus Roots were added with the [Dark Forest](notes/makeover/dark_forest) makeo
 
 Bulbus Roots can be obtained as a guaranteed drop from [Rootlings](notes/mob/rootling).  
 
-They can be cooked into [Roasted Bulbus Roots](notes/item/roasted_bulbus_roots) or crafted into [Stunt Powder](notes/item/stunt_powder).
+They can be cooked into [Roasted Bulbus Roots](notes/item/roasted_bulbus_root.md) or crafted into [Stunt Powder](notes/item/stunt_powder).
 
 ## Food Stats
 | Stat | Value|

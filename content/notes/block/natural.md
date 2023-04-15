@@ -16,10 +16,10 @@ These Tree Types all have their own wood variant.
 ## Flowers and Plants
 - [Barrel Cactus](notes/block/barrel_cactus)
 - [Saguaro Cactus](notes/block/saguaro_cactus)
-- [Black Thistle](notes/block/black)
+- [Black Thistle](notes/block/black_thistle)
 - [Foxglove](notes/block/foxglove)
 - [Marigold](notes/block/marigold)
-- [Buttonbush](notes/block/button_bush)
+- [Buttonbush](notes/block/buttonbush)
 - [Wild Mushrooms](notes/block/wild_mushrooms)
 - [Purple Glowshrooms](notes/block/purple_glowshroom)
 - [Green Glowshrooms](notes/block/green_glowshroom)
@@ -34,15 +34,15 @@ These Tree Types all have their own wood variant.
 - [Water Lily](notes/block/water_lily)
 - [Tall Red Mushroom](notes/block/tall_red_mushroom)
 - [Tall Brown Mushroom](notes/block/tall_brown_mushroom)
-- [Willowing Branches](notes/generation/willowing_branches)
-- [Huge Mushroom Blocks](notes/block/huge_mushroom_blocks)
+- [Willowing Branches](notes/block/willowing_branches)
+- [Huge Glowshroom Blocks](notes/block/huge_glowshroom_blocks)
 
 ## Illunite  
 These blocks can be found within [Illunite Fissures](notes/generation/illunite_fissure).
 - [Block of Illunite](notes/block/illunite_block)
 - [Budding Illunite](notes/block/budding_illunite)
 - [Illunite Bud](notes/block/illunite_block)
-- [Illunite Cluster](notes/generation/illunite_cluster)
+- [Illunite Cluster](notes/block/illunite_cluster)
 
 ## Other
 - [Paydirt](notes/block/paydirt)

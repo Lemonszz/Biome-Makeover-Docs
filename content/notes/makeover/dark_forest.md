@@ -42,7 +42,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 
 ## Items
 - [Bulbus Root](notes/item/bulbus_root)
-- [Roasted Bulbus Root](notes/item/roasted_bulbus_roots)
+- [Roasted Bulbus Root](notes/item/roasted_bulbus_root.md)
 - [Cladded Armor](notes/item/cladded_armor)
 - [Crude Cladding](notes/item/crude_cladding)
 - [Red Rose Music Disk](notes/item/discs)

@@ -12,22 +12,22 @@ Biome Makeover adds several varieties of decoration block.
 These stone type blocks have slab, stair and wall variants.
 
 - [Blighted Cobblestone](notes/block/blighted_cobblestone)
-- [Blighted Stone Bricks](notes/block/blighted_stone_brick)
+- [Blighted Stone Bricks](notes/block/blighted_stone_bricks)
 - [Dried Peat Bricks](notes/block/dried_peat_bricks)
 - [Mesmerite](notes/block/mesmerite)
 - [Terracotta Bricks](notes/block/terracotta_bricks)
 
 ## Mushroom Block Variants
-- [Huge Mushroom Blocks](notes/block/huge_mushroom_blocks)
+- [Huge Glowshroom Blocks](notes/block/huge_glowshroom_blocks)
 - [Mushroom Bricks](notes/block/mushroom_bricks)
 
 ## Flowers and Plants
 - [Barrel Cactus](notes/block/barrel_cactus)
 - [Saguaro Cactus](notes/block/saguaro_cactus)
-- [Black Thistle](notes/block/black)
+- [Black Thistle](notes/block/black_thistle)
 - [Foxglove](notes/block/foxglove)
 - [Marigold](notes/block/marigold)
-- [Buttonbush](notes/block/button_bush)
+- [Buttonbush](notes/block/buttonbush)
 - [Wild Mushrooms](notes/block/wild_mushrooms)
 - [Purple Glowshrooms](notes/block/purple_glowshroom)
 - [Green Glowshrooms](notes/block/green_glowshroom)
@@ -42,7 +42,7 @@ These stone type blocks have slab, stair and wall variants.
 - [Water Lily](notes/block/water_lily)
 - [Tall Red Mushroom](notes/block/tall_red_mushroom)
 - [Tall Brown Mushroom](notes/block/tall_brown_mushroom)
-- [Willowing Branches](notes/generation/willowing_branches)
+- [Willowing Branches](notes/block/willowing_branches)
 
 ### Other
 - [Tapestries](notes/block/tapestries)
