@@ -1,5 +1,5 @@
 ---
-title: "Blighted Balda"
+title: "Blighted Balsa"
 tags:
 - generation
 - mushroom fields
