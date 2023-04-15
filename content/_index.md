@@ -59,12 +59,11 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 
 ### Blocks & Items
 - 🎨[Decoration Blocks](notes/block/decoration)
-- 🎩[Hats and Armor](notes/items/hats_and_armor)
-- 🌲[Natural Blocks](notes/blocks/natural)
-- 🔦[Functional Blocks](notes/blocks/functional)
-- ⚡[Redstone](notes/blocks/redstone)
-- ⚒️[Tools and Utilities](notes/items/tools)
-- 🍓[Food](notes/items/food)
+- 🎩[Hats & Armor](notes/item/hats_and_armor.md)
+- 🌲[Natural Blocks](notes/block/natural)
+- ⚡[Redstone](notes/block/redstone)
+- ⚒️[Tools & Utilities](notes/item/tools)
+- 🍓[Food](notes/item/food)
 
 ### Configuration
 - ⚙️[Data Packs](notes/config/datapack)

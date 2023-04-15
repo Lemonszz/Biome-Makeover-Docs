@@ -1,25 +1,17 @@
 ---
-title: "🎨 Decoration Blocks"
+title: "🌲 Natural Blocks"
 tags:
 - block
-- decoration
+- natural
 - list
 ---
 
-Biome Makeover adds several varieties of decoration block.
-
-## Stone Variants
-These stone type blocks have slab, stair and wall variants.
-
-- [Blighted Cobblestone](notes/block/blighted_cobblestone)
-- [Blighted Stone Bricks](notes/block/blighted_stone_brick)
-- [Dried Peat Bricks](notes/block/dried_peat_bricks)
-- [Mesmerite](notes/block/mesmerite)
-- [Terracotta Bricks](notes/block/terracotta_bricks)
-
-## Mushroom Block Variants
-- [Huge Mushroom Blocks](notes/block/huge_mushroom_blocks)
-- [Mushroom Bricks](notes/block/mushroom_bricks)
+## Trees
+These Tree Types all have their own wood variant.
+- [Ancient Oak Tree](notes/generation/ancient_oak) - [Ancient Oak Wood](notes/block/ancient_oak)
+- [Willow Tree](notes/generation/willow) - [Willow Wood](notes/block/willow)
+- [Swamp Cypress Tree](notes/generation/swamp_cypress) - [Swamp Cypress Wood](notes/block/swamp_cypress)
+- [Blighted Balsa Tree](notes/generation/blighted_balsa) - [Blighted Balsa Wood](notes/block/blighted_balsa)
 
 ## Flowers and Plants
 - [Barrel Cactus](notes/block/barrel_cactus)
@@ -43,6 +35,16 @@ These stone type blocks have slab, stair and wall variants.
 - [Tall Red Mushroom](notes/block/tall_red_mushroom)
 - [Tall Brown Mushroom](notes/block/tall_brown_mushroom)
 - [Willowing Branches](notes/generation/willowing_branches)
+- [Huge Mushroom Blocks](notes/block/huge_mushroom_blocks)
 
-### Other
-- [Tapestries](notes/block/tapestries)
+## Illunite  
+These blocks can be found within [Illunite Fissures](notes/generation/illunite_fissure).
+- [Block of Illunite](notes/block/illunite_block)
+- [Budding Illunite](notes/block/budding_illunite)
+- [Illunite Bud](notes/block/illunite_block)
+- [Illunite Cluster](notes/generation/illunite_cluster)
+
+## Other
+- [Paydirt](notes/block/paydirt)
+- [Peat](notes/block/peat)
+

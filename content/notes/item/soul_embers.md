@@ -1,5 +1,5 @@
 ---
-title: "Rootling Seeds"
+title: "Soul Embers"
 tags:
 - item
 - utility
