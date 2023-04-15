@@ -1,5 +1,5 @@
 ---
-title: "Blighed Cobblestone"
+title: "Blighted Cobblestone"
 tags:
 - block
 - mushroom fields

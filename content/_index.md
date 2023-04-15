@@ -58,7 +58,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 🐡[Glowfish](notes/mob/glowfish)
 
 ### Blocks & Items
-- 🎨[Decoration Blocks](notes/blocks/decoration)
+- 🎨[Decoration Blocks](notes/block/decoration)
 - 🎩[Hats and Armor](notes/items/hats_and_armor)
 - 🌲[Natural Blocks](notes/blocks/natural)
 - 🔦[Functional Blocks](notes/blocks/functional)

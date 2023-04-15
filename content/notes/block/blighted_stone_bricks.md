@@ -1,5 +1,5 @@
 ---
-title: "Blighed Stone Bricks"
+title: "Blighted Stone Bricks"
 tags:
 - block
 - mushroom fields
