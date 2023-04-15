@@ -1,5 +1,5 @@
 ---
-title: "Peat"
+title: "🧑‍🌾 Peat"
 tags:
 - block
 - generation

@@ -1,5 +1,5 @@
 ---
-title: "Huge Green Glowshroom"
+title: "✨ Huge Green Glowshroom"
 tags:
 - generation
 - mushroom fields

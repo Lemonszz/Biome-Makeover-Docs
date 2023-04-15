@@ -19,7 +19,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Green Glowshroom](notes/block/green_glowshroom)
 - [Purple Glowshroom](notes/block/purple_glowshroom)
 - [Orange Glowshroom](notes/block/orange_glowshroom)
-- [Huge Glowshrooms](notes/generation/huge_glowshrooms)
+- ✨[Huge Glowshrooms](notes/generation/huge_glowshrooms)
 - [Tall Red Mushrooms](notes/block/tall_red_mushroom)
 - [Tall Brown Mushrooms](notes/block/tall_brown_mushroom)
 - [Mycelium Roots](notes/block/mycelium_roots)

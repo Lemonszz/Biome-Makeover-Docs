@@ -19,7 +19,7 @@ The Swamp makeover was the 3rd makeover in the mod. It was originally released o
 ## World Generation
 - [Willow Trees](notes/generation/willow)
 - [Swamp Cypress](notes/generation/swamp_cypress)
-- [Peat](notes/block/peat)
+- [🧑‍🌾 Peat](notes/block/peat)
 - [Marigold](notes/block/marigold)
 - [Buttonbush](notes/block/buttonbush)
 - [Reeds & Cattails](notes/block/reeds_and_cattails)

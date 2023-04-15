@@ -38,6 +38,8 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 ### World Generation
 - 🌴[Trees](notes/generation/trees)
 - 🌒[Illunite Fissures](notes/generation/illunite_fissure)
+- ✨[Huge Glowshrooms](notes/generation/huge_glowshrooms)
+- 🧑‍🌾[Peat](notes/block/peat)
 
 ### Mobs
 - 🦉[Owl](notes/mob/owl)
@@ -63,7 +65,6 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - ⚡[Redstone](notes/blocks/redstone)
 - ⚒️[Tools and Utilities](notes/items/tools)
 - 🍓[Food](notes/items/food)
-- 🌺[Petals](notes/items/petals)
 
 ### Configuration
 - ⚙️[Data Packs](notes/config/datapack)
