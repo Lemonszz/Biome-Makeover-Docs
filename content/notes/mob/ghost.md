@@ -30,7 +30,7 @@ Like the [Poltergeist](notes/block/poltergeist) block, Ghosts can interact some 
 - Bells
 
 ## Drops
-When killed Moths will drop:
+When killed Ghosts will drop:
 - 0 - 1 [Ectoplasm](notes/item/ectoplasm)
 
 ## Stats

@@ -14,7 +14,7 @@ Marauders were added as part of the [Badlands](notes/makeover/badlands) makeover
 If a Pillager Patrol was to spawn in the Badlands, Marauders will spawn instead.
 
 Marauders wear [Cowboy Hats](notes/item/cowboy_hat) and ride Horses.  
-The Patrol Captain was a special Ominous Banner featuring a Marauder Design.
+The Patrol Captain has a special Ominous Banner featuring a Marauder Design.
 
 ## Stats
 | Stat | Value |

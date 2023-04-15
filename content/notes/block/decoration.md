@@ -44,5 +44,5 @@ These stone type blocks have slab, stair and wall variants.
 - [Tall Brown Mushroom](notes/block/tall_brown_mushroom)
 - [Willowing Branches](notes/block/willowing_branches)
 
-### Other
+## Other
 - [Tapestries](notes/block/tapestries)
