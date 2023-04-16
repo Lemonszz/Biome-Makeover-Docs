@@ -17,4 +17,5 @@ Overtime, the unflowered variant will grow flowers.
 
 [Scuttlers](notes/mob/scuttler) will target and eat Flowered Barrel Cactus, causing the cactus to become unflowered and dropping [Pink Petals](notes/item/pink_petals).  
 
+Barrel Cactus can be used as food for Camels.
 

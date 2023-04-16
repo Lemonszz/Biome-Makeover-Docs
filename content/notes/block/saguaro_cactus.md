@@ -15,6 +15,8 @@ It is found throughout the Badlands biomes as a natural plant.
 
 Like regular Cactus, any entity touching the block will be damaged.
 
+Barrel Cactus can be used as food for Camels.
+
 ### Growing
 A single Saguaro Cactus block will naturally grow (or via bonemealing) into a full-sized  Saguaro Cactus plant.  
 ![[notes/images/saguaro_cactus_growing.png]]
