@@ -14,6 +14,8 @@ It can be naturally found within [Woodland Mansions](notes/structure/mansion) or
 
 Cladded Armor has a [Projectile Resistance](notes/mechanic/projectile_resistance) attribute, giving it a defense stat of 21 against projectile weapons, slightly higher than Diamond Armor's defense of 20.
 
+Like Leather Boots, Cladded Boots allow the player to walk on Powdered Snow.
+
 ### Stats
 | Stat | Helmet | Chestplate | Leggings | Boots | Full Set |
 | ---- | ---- | ---- | ---- | ---- | ---- |
