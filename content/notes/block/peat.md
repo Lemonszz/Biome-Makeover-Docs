@@ -23,3 +23,8 @@ Peat generates in patches inside Swamp biomes
 It generates in shallow areas of water underneath dirt, with Mossy Peat sticking up through the ground.
 
 ![[notes/images/peat.png]]
+
+## Creation  
+Peat can be created by using Pointed Dripstone.
+
+If a **full** Composter is underneath Pointed Dripstone that is dripping Water, there is a chance that the Composter contents will transform into Peat
