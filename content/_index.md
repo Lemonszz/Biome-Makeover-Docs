@@ -20,6 +20,8 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 
 ## Mod Guide
 
+📸 [Screenshot Gallery](notes/images/screenshot_gallery)
+
 ### Makeovers
 - 🌳[Dark Forest](notes/makeover/dark_forest)
 - 🐸[Swamp](notes/makeover/swamp)

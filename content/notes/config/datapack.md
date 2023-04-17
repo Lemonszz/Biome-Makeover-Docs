@@ -33,7 +33,7 @@ You may delete any of the subfolders you do not use. Please rename the data pack
 
 This data pack was last updated for Biome Makeover version `1.19.4-1.9.0`, but should still work on future versions.
 
-[Download the Base Pack Here](https://biomemakeover.laserknights.com/notes/config/biomemakeover_example-datapack.zip)
+[Download the Base Pack Here](https://github.com/Lemonszz/Biome-Makeover-Docs/raw/master/notes/config/biomemakeover-example-datapack.zip)
 
 ### Biome Makeover's Data
 If you wish to overwrite or modify Biome Makeover's data, you must know what each data file is.  
