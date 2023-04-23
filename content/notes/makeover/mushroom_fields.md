@@ -27,7 +27,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Underground Mycelium Patches](notes/generation/underground_mycelium_patches.md)
 
 ## Mobs
-- 🧟‍♂️[Mushroom Trader](notes/mob/mushroom_trader)
+- 🧑‍🔬[Mushroom Trader](notes/mob/mushroom_trader)
 - 🐡[Glowfish](notes/mob/glowfish)
 
 ## Blocks
@@ -39,3 +39,4 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Button Mushrooms Music Disc](notes/item/discs)
 - [Raw Glowfish](notes/item/raw_glowfish)
 - [Cooked Glowfish](notes/item/cooked_glowfish)
+- [Glowshroom Stew](notes/item/glowshroom_stew)

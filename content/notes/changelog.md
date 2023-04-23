@@ -8,7 +8,7 @@
 1.19.4-1.9.1 - TBD
 
 ## Latest Major
-> [!example]+ 1.19.4-1.9.0
+> [!example] 1.19.4-1.9.0
 > ### Bug Fixes
 >- Fixed Cowboy Hat z-fighting
 >- Fixed Saguaro Cactus z-fighting
@@ -19,6 +19,7 @@
 >- Fixed disabled items appearing in the creative menu
 >- Fix an oopsy where Buttonbush and Marigolds & Wild Mushrooms were not generating
 >- Fix mod incompatibility issues related to crop/farmland blocks
+>- Fix Potted Glowshrooms not emitting light
 >- Fix mod icon not loading correctly
 >- Fix signs being crashy
 >- Fix Glowshroom Stem blocks not removing faces correctly
@@ -35,6 +36,8 @@
 >- Improved Ghost Town loot
 >- Replaced Mesmerite Boulders with Illunite Fissures
 >- Increase the amount of Wild Mushrooms generating in the Mushroom Fields
+> - Added Mushroom House structure
+> - Mansion structures have had their data pack support improved
 >
 >### Mobs
 >- Scuttler AI has been tweaked to more consistently eat petals
@@ -53,13 +56,19 @@
 >	- Regular Pillages have a 25% Chance to drop either:
 >		- 90% 1 - 4 Crude Fragments
 >		- 10% 1 Crude Cladding
->- Renamed Cowboys to Marauders
+>- Renamed Cowboys to Marauder Pillagers
 >	- IDs haven't changed (yet)
 >- Updated Mushroom Trader trades
+> - Mushroom Trader no longer spawns naturally and no longer despawns (spawn in Mushroom House Structure)
+> - Improved mob path-finding around barrel cactus, saguaro cactus, smally lily pads, water lilies and Black Thistle
+> - Moth AI has been improved
 >
 >### Blocks
 >- Adjusted Paydirt loot table
 >- Barrel Cactus will no longer destroy items with the `biomemakeover:barrel_cactus_immune` tag (pink petals)
+>- Added `biomemakeover:barrel_cactus_plantable_on` tag
+>- Added `biomemakeover:saguaro_cactus_plantable` tag
+>- Added Particles when Flowered Barrel Cactus is eaten by Scuttlers 
 >- Illunite Rework
 >	- Generates in Illunite Fissures
 >	- Grows on Budding Illunite, from bud to cluster
@@ -71,6 +80,7 @@
 >- Tall Red and Brown Mushrooms can no longer be bonemealed
 >- Tall Red and Brown Mushrooms can now generate when bonemealing mycelium
 >- Peat is now renewable by dripping water into a full composter with dripstone
+>- Updated Glowshroom block textures
 >
 >### Items  
 >- Buffed Cladded Armor projectile resistance from 1 to 1.5
@@ -79,6 +89,9 @@
 >	- 1 Crude Cladding can be crafted into 4 Crude Fragments
 >	- 4 Crude Fragments can be crafted into 1 Crude Cladding
 >
->### Data Pack
+>### Other
 >- Witch Quest Rewards are now data-driven
+>- Mushroom Trader Trades are now data-driven
+>- Added uk_ua translation (Ukrainian), Thanks, Tema Hromosoma!
+
 

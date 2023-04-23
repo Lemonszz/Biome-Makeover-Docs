@@ -36,6 +36,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 🏠[Woodland Mansion Rework](notes/structure/mansion)
 - 💦[Sunken Ruin](notes/structure/sunken_ruins)
 - 🏚️[Ghost Town](notes/structure/ghost_town)
+- 🛖[Mushroom House](notes/structure/mushroom_house)
 
 ### World Generation
 - 🌴[Trees](notes/generation/trees)
@@ -53,7 +54,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 😵[Decayed](notes/mob/decayed)
 - 🌟[Lightning Bug](notes/mob/lightning_bug)
 - 🐉[Dragonfly](notes/mob/dragonfly)
-- 🏇🏾[Marauder](notes/mob/marauder)
+- 🏇🏾[Marauder](notes/mob/marauder Pillager)
 - 🦎[Scuttler](notes/mob/scuttler)
 - 👻[Ghost](notes/mob/ghost)
 - 🧟‍♂️[Mushroom Trader](notes/mob/mushroom_trader)

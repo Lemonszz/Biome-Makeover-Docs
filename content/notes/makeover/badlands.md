@@ -23,7 +23,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Saguaro Cactus](notes/block/saguaro_cactus)
 
 ## Mobs
-- 🏇🏾[Marauder](notes/mob/marauder)
+- 🏇🏾[Marauder](notes/mob/marauder Pillager)
 - 🦎[Scuttler](notes/mob/scuttler)
 - 👻[Ghost](notes/mob/ghost)
 

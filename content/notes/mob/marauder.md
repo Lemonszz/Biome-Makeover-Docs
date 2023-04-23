@@ -1,5 +1,5 @@
 ---
-title: "🏇🏾 Marauder"
+title: "🏇🏾 Marauder Pillagers"
 tags:
 - mobs
 - hostile

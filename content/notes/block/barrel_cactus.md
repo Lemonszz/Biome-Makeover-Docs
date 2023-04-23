@@ -19,3 +19,5 @@ Overtime, the unflowered variant will grow flowers.
 
 Barrel Cactus can be used as food for Camels.
 
+Barrel Cactus must be placed upon Sand, Saguaro Cactus or Cactus.
+
