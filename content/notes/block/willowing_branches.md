@@ -13,6 +13,8 @@ Willowing Branches were added with the [Swamp](notes/makeover/swamp) makeover.
 
 Willowing Branches are generated as part of [Willow Trees](notes/generation/willow).
 
-They can be harvested with shears.
+They can be harvested with Shears.
 
-Willowing Branches can be placed in columns of 3 and may be waterlogged.
+Willowing Branches will grow downwards and can be grown with Bonemeal.  
+
+Using Shears on the head of the branch will stop it from growing any further downwards.

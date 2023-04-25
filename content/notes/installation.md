@@ -30,3 +30,18 @@ Follow the installation instructions on their website to get started.
 1. 🌳 Download the latest version of Biome Makeover for your Minecraft version from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)  or [Modrinth](https://modrinth.com/mod/biome-makeover)  and place it in your `mods` directory.
 2. 🏗️Download the latest **Forge** version of Architectury API for your Minecraft version from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/architectury-api) or [Modrinth](https://modrinth.com/mod/architectury-api) and place it in your `mods` directory.
 3. Launch your game and have fun!
+
+
+# Recommended Mods
+
+### Recipe Viewer  
+To see the recipes of blocks and items we recommend using a recipe viewer mod such as:  
+
+- Roughly Enough Items (REI)  - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | [Modrinth](https://modrinth.com/mod/rei) - Fabric/Forge
+- EMI - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi) | [Modrinth](https://modrinth.com/mod/emi) - Fabric
+- Just Enough Items (JEI) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) | [Modrinth](https://modrinth.com/mod/jei) - Forge
+
+### KubeJS  
+Most of Biome Makeover's configuration is done though [Data Packs](notes/config/datapack).  We recommend using KubeJS's global Data Pack feature for this.
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/kubejs) | [Modrinth](https://modrinth.com/mod/kubejs) 

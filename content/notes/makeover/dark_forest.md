@@ -39,6 +39,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Altar](notes/block/altar)
 - [Cladded Stone](notes/block/cladded_stone)
 - [Tapestries](notes/block/tapestries)
+- [Block of Crude Cladding](notes/block/crude_cladding_block)
 
 ## Items
 - [Bulbus Root](notes/item/bulbus_root)

@@ -12,3 +12,4 @@ It can be naturally found within [Woodland Mansions](notes/structure/mansion) or
 It is used as a crafting ingredient in:   
 - [Cladded Stone](notes/block/cladded_stone)
 - [Cladded Armor](notes/item/cladded_armor)
+- [Block of Crude Cladding](notes/block/crude_cladding_block)
