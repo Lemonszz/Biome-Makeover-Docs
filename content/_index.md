@@ -54,7 +54,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - 😵[Decayed](notes/mob/decayed)
 - 🌟[Lightning Bug](notes/mob/lightning_bug)
 - 🐉[Dragonfly](notes/mob/dragonfly)
-- 🏇🏾[Marauder](notes/mob/marauder Pillager)
+- 🏇🏾[Marauder](notes/mob/marauder)
 - 🦎[Scuttler](notes/mob/scuttler)
 - 👻[Ghost](notes/mob/ghost)
 - 🧟‍♂️[Mushroom Trader](notes/mob/mushroom_trader)
