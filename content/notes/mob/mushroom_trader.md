@@ -14,3 +14,5 @@ They spawn within [Mushroom Houses](notes/structure/mushroom_house).
 
 ## Behavior
 Mushroom Traders will trade the [Button Mushrooms Music Disc](notes/item/discs) along with other Mushroom related items from both Vanilla Minecraft and Biome Makeover.
+
+Mushroom Traders will not learn any more trades.
