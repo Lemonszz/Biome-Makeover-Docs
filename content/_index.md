@@ -20,6 +20,7 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 
 ## Mod Guide
 
+🪵 [Changelog](notes/changelog)
 📸 [Screenshot Gallery](notes/images/screenshot_gallery)
 
 ### Makeovers
@@ -72,4 +73,5 @@ Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7).
 - ⚙️[Data Packs](notes/config/datapack)
 - 🧹[Custom Witch Quests and Rewards](notes/config/witch_quests)
 - 🏷️[Tags](notes/config/tags)
+- 💰[Loot Tables](notes/config/loot_tables)
 - 🦦[Other](notes/config/other)

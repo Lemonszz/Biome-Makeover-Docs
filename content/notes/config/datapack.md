@@ -60,4 +60,5 @@ Check out the [KubeJS website](https://kubejs.com/) for more information.
 ## Biome Makeover Configuration
 - 🧹[Custom Witch Quests and Rewards](notes/config/witch_quests)
 - 🏷️[Tags](notes/config/tags)
+- 💰[Loot Tables](notes/config/loot_tables)
 - 🦦[Other](notes/config/other)
