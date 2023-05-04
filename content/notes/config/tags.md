@@ -13,6 +13,9 @@ This list will not include any Vanilla Minecraft tags.
 - `biomemakeover:barrel_cactus_immune` - Items in this tag can not be destroyed by [Barrel Cacti](notes/block/barrel_cactus)
 - `biomemakeover:curse_fuel` - Items in in this tag can be used as fuel for the [Altar](notes/block/altar)
 - `biomemakeover:petals` - Petal Items
+- `biomemakeover:helmit_crab_exception` - Helmet items in this tag can not be picked up by the [Helmit Crab](notes/mob/helmit_crab)
+- `biomemakeover:witch_hats` - Helmets in this tag can be used to activate the [Witch Quest](notes/mechanic/witch_quest) system
+- `biomemakeover:heals_stone_golem` - Items in this tag can be used to heal the [Stone Golem](notes/mob/stone_golem)
 - `taniwha:powdered_snow_walker` - When worn in the boots slot, items in this tag allow the player to walk on Powdered Snow
 
 ## Blocks
@@ -26,6 +29,8 @@ This list will not include any Vanilla Minecraft tags.
 - `biomemakeover:lily_pad` - Lily Pad type blocks
 - `biomemakeover:moth_attractive` - Block that [Moths](notes/mob/moth) are attracted to
 - `biomemakeover:ore_replaceable` - Generation helper
+- `biomemakeover:barrel_cactus_plantable_on` - Blocks that [Barrel Cacti](notes/block/barrel_cactus) can be planted on
+- `biomemakeover:saguarge_cactus_plantable_on` - Blocks that [Saguaro Cacti](notes/block/saguaro_cactus) can be planted on
 - `c:farmland` - Farmland type blocks
 - `taniwha:anti_meltables` - Snow on on top of Blocks in this tag will not melt
 - `taniwha:block_particle_exceptions` - Technical tag

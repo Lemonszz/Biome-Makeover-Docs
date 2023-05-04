@@ -25,6 +25,7 @@
 >- Fix Glowshroom Stem blocks not removing faces correctly
 >- Fixed some Barrels within Ghost Towns containing no loot
 >- Fix a Minecraft bug where Bell blocks not rotating when loaded by Jigsaw Structures ([MC-253819](https://bugs.mojang.com/browse/MC-253819))
+>- Fix Nocturnal Effect not applying correctly
 >- General stability improvements
 >
 >### Generation
@@ -43,6 +44,7 @@
 >
 >### Mobs
 >- Scuttler AI has been tweaked to more consistently eat petals
+>- Pink Petals dropped from Scuttler eating Barrel Cactus is now dropped from a loot table
 >- Updated Witch Quests
 > 	- Can now reward froglights
 > 	- The "Swamp Jives" music disc is now more common
@@ -64,11 +66,15 @@
 >- Mushroom Trader no longer spawns naturally and no longer despawns (spawn in Mushroom House Structure)
 >- Improved mob path-finding around barrel cactus, saguaro cactus, smally lily pads, water lilies and Black Thistle
 >- Moth AI has been improved
+>- Rootling Petal drops are now controlled by loot tables
+>- Helmit Crabs will no longer pick up helmets with the `biomemakeover:helmit_crab_exception` tag (empty by default)
+>- Witches will allow any item with the `biomemakeover:witch_hats` tag to be used for Witch Quests
+>- Stone Golems can be healed with items in the `biomemakeover:heals_stone_golem` tag
 >
 >### Blocks
 >- Adjusted Paydirt loot table
 >- Barrel Cactus will no longer destroy items with the `biomemakeover:barrel_cactus_immune` tag (pink petals)
->- Added `biomemakeover:barrel_cactus_plant>able_on` tag
+>- Added `biomemakeover:barrel_cactus_plantable_on` tag
 >- Added `biomemakeover:saguaro_cactus_plantable` tag
 >- Added Particles when Flowered Barrel Cactus is eaten by Scuttlers 
 >- Illunite Rework
@@ -87,6 +93,7 @@
 >- Willowing Branches can now grow past 3 long
 >- Willowing Branch Tips can be shorn to stop further growth
 >- Willowing Branches can be bonemealed
+>- Reviewed/Adjusted the map color for every block
 >
 >### Items  
 >- Buffed Cladded Armor projectile resistance from 1 to 1.5
