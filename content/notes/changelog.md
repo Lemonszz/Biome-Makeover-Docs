@@ -94,6 +94,8 @@
 >- Willowing Branch Tips can be shorn to stop further growth
 >- Willowing Branches can be bonemealed
 >- Reviewed/Adjusted the map color for every block
+>- The Altar will not curse items with any curse that has the `biomemakeover:altar_curse_excluded` enchantment tag
+>- The Altar will not upgrade any enchantment with the `biomemakeover:altar_cant_upgrade` enchantment tag.
 >
 >### Items  
 >- Buffed Cladded Armor projectile resistance from 1 to 1.5

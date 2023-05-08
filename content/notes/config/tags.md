@@ -8,8 +8,9 @@ tags:
 This list will not include any Vanilla Minecraft tags.
 
 ## Items
+Item tags are located in `data/biomemakeover/tags/items/`
 
-- `biomemaekover:additional_camel_food` - Items in this tag can be used as food for Camels
+- `biomemakeover:additional_camel_food` - Items in this tag can be used as food for Camels
 - `biomemakeover:barrel_cactus_immune` - Items in this tag can not be destroyed by [Barrel Cacti](notes/block/barrel_cactus)
 - `biomemakeover:curse_fuel` - Items in in this tag can be used as fuel for the [Altar](notes/block/altar)
 - `biomemakeover:petals` - Petal Items
@@ -19,6 +20,8 @@ This list will not include any Vanilla Minecraft tags.
 - `taniwha:powdered_snow_walker` - When worn in the boots slot, items in this tag allow the player to walk on Powdered Snow
 
 ## Blocks
+Block tags are located in `data/biomemakeover/tags/blocks/`
+
 - `biomemakeover:crab_spawnable_on` - [Helmit Crabs](notes/mob/helmit_crab) can spawn on these blocks
 - `biomemakeover:fissure_no_replace` - [Illunite Fissure](notes/generation/illunite_fissure) generation helper
 - `biomemakeover:floor_tapestries` - Tapestries placed on the floor
@@ -37,16 +40,22 @@ This list will not include any Vanilla Minecraft tags.
 - `taniwha:golem_heads` - Blocks that will work for completing Iron and Snow Golems
 
 ## Damage Type
+Damage Type tags are located in `data/biomemakeover/tags/damage_type/`
+
 - `biomemakeover:ghost_immune_to` - Damage Types [Ghosts](notes/mob/ghost) are immune to
 - `biomemakeover:scuttler_immune_to` - Damage Types [Scuttlers](notes/mob/scuttler) are immune to
 - `biomemakeover:tumbleweed_immune_to` - Damage Types [Tumbleweed](notes/mob/tumbleweed) is immune to
 
 ## Entity Type
+Entity Type tags are located in `data/biomemakeover/tags/entity_types/`
+
 - `biomemakeover:lightning_bugs` - Technical Tag for [Lightning Bugs](notes/mob/lightning_bug)
 - `biomemakeover:owl_targets` - Mobs that [Owls](notes/mob/owl) will naturally attack
 - `taniwha:campfire_immune` - Mobs that will not be hurt by Campfires
 
 ## World Gen
+World Gen tags are located in `data/biomemakeover/tags/worldgen/`
+
 - `biomemakeover:badlands` - Biomes the [Biome Makeover Badlands](notes/makeover/badlands) features will generate in
 - `biomemakeover:swamp` - Biomes the [Biome Makeover Swamp](notes/makeover/swamp) features will generate in
 - `biomemakeover:dark_forest` - Biomes the [Biome Makeover Dark Forest](notes/makeover/dark_forest) features will generate in
@@ -54,3 +63,9 @@ This list will not include any Vanilla Minecraft tags.
 - `biomemakeover:beaches` - Biomes the [Helmit Crabs](notes/mob/helmit_crab) will spawn in.
 - `biomemakeover:spawns_tumbleweed` - Biomes that [Tumbleweed](notes/mob/tumbleweed) will spawn in
 - `biomemakeover:swamp_bonemeal` - Biomes that [Swamp Bonemealing](notes/mechanic/swamp_bonemealing) will work
+
+## Enchantments
+Enchantment tags are located in `data/biomemakeover/tags/enchantment/`
+
+- `biomemakeover:altar_curse_excluded` - Curses in this tag wont be selected by the altar`
+- `biomemakeover:altar_cant_upgrade` - Enchantments in this tag can't be upgraded
