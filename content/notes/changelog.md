@@ -26,6 +26,7 @@
 >- Fixed some Barrels within Ghost Towns containing no loot
 >- Fix a Minecraft bug where Bell blocks not rotating when loaded by Jigsaw Structures ([MC-253819](https://bugs.mojang.com/browse/MC-253819))
 >- Fix Nocturnal Effect not applying correctly
+>- Fix wooden blocks not necessarily playing the correct sound when toggled by a Ghost or Poltergeist block
 >- General stability improvements
 >
 >### Generation
@@ -70,6 +71,7 @@
 >- Helmit Crabs will no longer pick up helmets with the `biomemakeover:helmit_crab_exception` tag (empty by default)
 >- Witches will allow any item with the `biomemakeover:witch_hats` tag to be used for Witch Quests
 >- Stone Golems can be healed with items in the `biomemakeover:heals_stone_golem` tag
+>- Adjusted the Evoker's chance of dropping an Illunite Shard, it is also now affected by looting
 >
 >### Blocks
 >- Adjusted Paydirt loot table
@@ -95,7 +97,12 @@
 >- Willowing Branches can be bonemealed
 >- Reviewed/Adjusted the map color for every block
 >- The Altar will not curse items with any curse that has the `biomemakeover:altar_curse_excluded` enchantment tag
->- The Altar will not upgrade any enchantment with the `biomemakeover:altar_cant_upgrade` enchantment tag.
+>- The Altar will not upgrade any enchantment with the `biomemakeover:altar_cant_upgrade` enchantment tag
+>-  Blocks will now give off correct game events (sculk sensor signals) when activated by a Ghost or Poltergeist block
+>- Daylight Detectors can now be toggled by Ghosts and Poltergeist blocks
+>- Blocks will now give off correct Game Events (Sculk Sensor signals) when activated by a Ghost or Poltergeist block
+>- Daylight Detectors can now be toggled by Ghosts and Poltergeist blocks
+>- Added Game Events (Sculk Sensor signals) to various Biome Makeover Actions
 >
 >### Items  
 >- Buffed Cladded Armor projectile resistance from 1 to 1.5
@@ -119,6 +126,7 @@
 >- Witch Quest Rewards are now data-driven
 >- Mushroom Villager trades are now data-driven
 >- Added uk_ua translation (Ukrainian), Thanks, Tema Hromosoma!
+>- Sorted Translation files
 
 
 
