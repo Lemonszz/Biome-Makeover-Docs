@@ -124,6 +124,9 @@
 >	- Bighted Balsa Logs and Sapling
 >	- Illunite Cluster
 >	- Glowfish (Entity, Raw Glowfish, Cooked Glowfish, Glowfish Bucket)
+>	- Mushroom Trader
+>	- Glowshroom Stew
+>	- Some spawn egg colours
 >	
 >### Other
 >- Witch Quest Rewards are now data-driven
