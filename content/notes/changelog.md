@@ -121,6 +121,9 @@
 >	- Paydirt
 >	- Cladded Stone
 >	- Crude Cladding
+>	- Bighted Balsa Logs and Sapling
+>	- Illunite Cluster
+>	- Glowfish (Entity, Raw Glowfish, Cooked Glowfish, Glowfish Bucket)
 >	
 >### Other
 >- Witch Quest Rewards are now data-driven

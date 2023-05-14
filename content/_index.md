@@ -3,6 +3,8 @@ title:  Biome Makeover
 enableToc: false
 ---
 
+![[notes/images/bmlogo2023_with_shadow.png]]
+
 Biome Makeover is a mod designed to give specific biomes a fresh coat of paint.  
 We aim for our changes to be vanilla friendly and suited for any modpack.
 
