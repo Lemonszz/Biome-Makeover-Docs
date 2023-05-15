@@ -58,7 +58,7 @@
 > 	- Patrol Leaders have a 100% Chance to drop either:
 > 		- 75% 1 - 4 Crude Fragments
 > 		- 25% 1 Crude Cladding
-> 	- Regular Pillages have a 25% Chance to drop either:
+> 	- Regular Pillagers have a 25% Chance to drop either:
 > 		- 90% 1 - 4 Crude Fragments
 > 		- 10% 1 Crude Cladding
 >- Renamed Cowboys to Marauder Pillagers
@@ -99,8 +99,6 @@
 >- The Altar will not curse items with any curse that has the `biomemakeover:altar_curse_excluded` enchantment tag
 >- The Altar will not upgrade any enchantment with the `biomemakeover:altar_cant_upgrade` enchantment tag
 >-  Blocks will now give off correct game events (sculk sensor signals) when activated by a Ghost or Poltergeist block
->- Daylight Detectors can now be toggled by Ghosts and Poltergeist blocks
->- Blocks will now give off correct Game Events (Sculk Sensor signals) when activated by a Ghost or Poltergeist block
 >- Daylight Detectors can now be toggled by Ghosts and Poltergeist blocks
 >- Added Game Events (Sculk Sensor signals) to various Biome Makeover Actions
 >
