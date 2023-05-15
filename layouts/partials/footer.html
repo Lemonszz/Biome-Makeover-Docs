@@ -1,4 +1,17 @@
 
+{{if $.Site.Data.config.enableFooter}}
+<div class="page-end" id="footer">
+    <div class="backlinks-container">
+        {{partial "backlinks.html" .}}
+    </div>
+    <div>
+        {{partial "graph.html" .}}
+    </div>
+</div>
+{{end}}
+
+{{partial "contact.html" .}}
+
 
 <hr/>
 <br>
@@ -14,16 +27,3 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <hr/>
-
-{{if $.Site.Data.config.enableFooter}}
-<div class="page-end" id="footer">
-    <div class="backlinks-container">
-        {{partial "backlinks.html" .}}
-    </div>
-    <div>
-        {{partial "graph.html" .}}
-    </div>
-</div>
-{{end}}
-
-{{partial "contact.html" .}}
