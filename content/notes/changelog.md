@@ -10,16 +10,13 @@ Changelogs for specific versions, for versions not listed here, see their respec
 ## Latest Minor
 
 > [!summary] 1.19.4-1.9.1
->## Bug Fix
->- Fix a client crash when interacting with a Mushroom Trader on a server
->- Fix a Forge incompatibility crash with some mods
->- Fix Ghosts and Scuttlers playing the wrong hurt sound
->
->## Mobs
->- Increase Ghost spawn rate
->
->## Other
->- Update zn_ch (Chinese Simplified) translation (Thanks NitsugaoO)
+>### Bug Fixes
+>- Badlands surface fossils not being correctly buried
+>- Fix Peat Composters not dropping anything when broken
+>- Fix Glowshroom and Mushroom Stem blocks not having a tool assigned
+>- Fix Peat Composters not having a tool assigned
+>- Fixed Budding Illunite and Illunite Buds not having a tool assigned
+
 
 ## Latest Major
 
