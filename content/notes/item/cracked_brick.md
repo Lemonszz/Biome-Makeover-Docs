@@ -5,7 +5,7 @@ tags:
 - badlands
 ---
 
-Cracked Bricks were added with the [1.20](notes/changelog/120) update.
+Cracked Bricks were added with the [1.20](notes/changelogs/120) update.
 
 The can be obtained by smelting Bricks in a Furnace or found when brushing [Suspicious Red Sand](notes/block/suspicious_red_sand).
 
