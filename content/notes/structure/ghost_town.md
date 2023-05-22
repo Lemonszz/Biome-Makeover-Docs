@@ -16,11 +16,22 @@ Buildings within Ghost Towns are primarily made up of Terracotta and [Terracotta
 [Ghosts](notes/mob/ghost) spawn in dark areas of the Ghost Town. 
 
 ## Loot
-Some unique loot that can be found in the mansion is:
+
+### Barrels
+Some unique loot that can be found in the Ghost Town barrels are:
 - [Cowboy Hat](notes/item/cowboy_hat)
 - [Ghost Town Music Disc](notes/item/discs)
 
-As well as other items from Vanilla Minecraft
+### Bookshelves
+Chiseled Bookshelves in the Ghost Town have a chance to be filled with either regular Books or Enchanted  Books of various levels.
+
+### Suspicious Red Sand
+The streets and some buildings have a chance of containing Suspicious Red Sand, which can contain some of the following unique loot:
+- [Ghost Town Music Disc](notes/item/discs)
+- [Refined, Whinny and Worker Pottery Sherds](notes/item/pottery_sherds)
+- [Cracked Brick](notes/item/cracked_brick)
+- [Crude Fragment](notes/item/crude_fragment)
+
 
 ## Configuration
 

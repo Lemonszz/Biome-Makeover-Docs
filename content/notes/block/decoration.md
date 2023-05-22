@@ -16,6 +16,7 @@ These stone type blocks have slab, stair and wall variants.
 - [Dried Peat Bricks](notes/block/dried_peat_bricks)
 - [Mesmerite](notes/block/mesmerite)
 - [Terracotta Bricks](notes/block/terracotta_bricks)
+- [Cracked Bricks](notes/block/cracked_bricks)
 
 ## Mushroom Block Variants
 - [Huge Glowshroom Blocks](notes/block/huge_glowshroom_blocks)

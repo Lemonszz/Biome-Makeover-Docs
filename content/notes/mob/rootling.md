@@ -10,19 +10,19 @@ tags:
 
 Rootlings are added as part of the [Dark Forest](notes/makeover/dark_forest) makeover.   
 
-Part plant, part animal, the Rootling is a social creature that can either make a good snack or as a source of [Petals](notes/item/petals).
+Part plant, part animal, the Rootling is a social creature that can either make a good snack or as a source of [Buds](notes/item/buds.md).
 
 ## Behavior
 Rootlings naturally spawn in the Dark Forest.
 
 They will wander around, interacting with each other and the world around them. They like to sit in the rain.
 
-They will flee the player if they are holding Shears, shearing a rootling will result in their petals being trimmed off and they will drop a color appropriate [Petal](notes/item/petals).  
+They will flee the player if they are holding Shears, shearing a rootling will result in their buds being trimmed off and they will drop a color appropriate [Bud](notes/item/buds.md).  
 
 They will be tempted towards bonemeal.   
 
-Over time, or if bonemeal is used on them, their petals will regrow as a random color.  
-Sitting in water or rain will decrease the time it takes to regrow their petals.
+Over time, or if bonemeal is used on them, their buds will regrow as a random color.  
+Sitting in water or rain will decrease the time it takes to regrow their buds.
 
 ## Growing
 Rootlings can not be bred by normal means, they must be grown with [Rootling Seeds](notes/item/rootling_seeds) planted in tilled dirt. Once the crop has grown, they will shoot up out of the ground as a fully grown rootling.

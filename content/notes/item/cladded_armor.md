@@ -10,7 +10,7 @@ tags:
 
 Cladded Amor was added with the [Dark Forest](notes/makeover/dark_forest) makeover.
 
-It can be naturally found within [Woodland Mansions](notes/structure/mansion) or crafted with Leather Armor and [Crude Cladding](notes/item/crude_cladding) in a Smithing Table.
+It can be naturally found within [Woodland Mansions](notes/structure/mansion) or crafted with Leather Armor and [Crude Cladding](notes/item/crude_cladding) and a [Cladding Upgrade Smithing Template](notes/item/cladding_smithing_template) in a Smithing Table.
 
 Cladded Armor has a [Projectile Resistance](notes/mechanic/projectile_resistance) attribute, giving it a defense stat of 21 against projectile weapons, slightly higher than Diamond Armor's defense of 20.
 

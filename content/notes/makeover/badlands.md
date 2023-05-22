@@ -29,10 +29,13 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 
 ## Blocks
 - [Poltergeist](notes/block/poltergeist)
+- [Terracotta Bricks](notes/block/terracotta_bricks)
+- [Cracked Bricks](notes/block/cracked_bricks)
 
 ## Items
 - [Cowboy Hat](notes/item/cowboy_hat)
 - [Ghost Town Music Disc](notes/item/discs)
 - [Ectoplasm](notes/item/ectoplasm)
-- [Pink Petals](notes/item/petals)
+- [Pink Petals](notes/item/buds.md)
 - [Scuttler Tail](notes/item/scuttler_tail)
+- [Cracked Brick](notes/item/cracked_brick)
