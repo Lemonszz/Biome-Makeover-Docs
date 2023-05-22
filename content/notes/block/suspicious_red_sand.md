@@ -8,7 +8,7 @@ tags:
 
 ![[notes/images/suspicious_red_sand.png]]
 
-Cracked Bricks were added with the [1.20](notes/changelogs/120) update.
+Suspicious Red Sand was added with the [1.20](notes/changelogs/120) update.
 
 It can be naturally found within [Ghost Towns](notes/structure/ghost_town).
 
