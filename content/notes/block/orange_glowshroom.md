@@ -14,6 +14,6 @@ Orange Glowshrooms were added with the [Mushroom Fields](notes/makeover/mushroom
 They can be naturally found under the water surrounding the Mushroom Fields biome.  
 New Orange Glowshrooms can be generated when [Bonemealing Mycelium](notes/mechanic/mycelium_bonemealing) underwater.
 
-Bonemealing the Mushrooms will generate [Huge Orange Glowshrooms](notes/generation/huge_orange_glowshroom)
+Bonemealing the Mushrooms will generate [Huge Orange Glowshrooms](notes/generation/huge_glowshrooms)
 
 They are used in the recipe for [Glowshroom Stew](notes/item/glowshroom_stew).  

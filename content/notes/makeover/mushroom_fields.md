@@ -13,6 +13,7 @@ The Dark Forest makeover was the 4th makeover in the mod. It was originally rele
 - [Mycelium Bonemealing](notes/mechanic/mycelium_bonemealing)
 
 ## Structures
+- [Mushroom House](notes/structure/mushroom_house)
 
 ## World Generation
 - [Blighted Balsa Trees](notes/generation/blighted_balsa)
