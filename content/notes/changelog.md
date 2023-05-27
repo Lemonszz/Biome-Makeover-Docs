@@ -9,16 +9,15 @@
 
 ## Latest Minor
 
-> [!summary] 1.19.4-1.9.3
+> [!summary] 1.19.4-1.9.4
 >### Bug Fixes
->- Fix a Forge only crash with Biome Makeover Boats
->- Fix Biome Makeover Boats briefly appearing as Acacia when placing them 
->- Fix Biome Makeover Boats  sometimes visually being the wrong type on servers
->**Note- This release makes some changes to Biome Makeover Boats, they may switch to a different wood type when loading for the first time**
-
-
-
-
+>- Fix a potential issue with other mods and Biome Makeover Signs
+>- Fix Blighted Balsa Signs having the incorrect Blighted Balsa bark texture
+>
+> ### Other
+> - Updated Blighted Balsa Sapling texture
+>- Biome Makeover Sign textures have been moved to the correct `biomemakover:entity/signs/` folder
+>- Cladded Armor textures have moved to the correct `biomemakeover:models/armor/` folder
 
 ## Latest Major
 
