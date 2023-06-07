@@ -6,6 +6,7 @@
 >**Versions**  
 >Changelogs for specific versions, for versions not listed here, see their respective release pages  
 >- [1.19.4](notes/changelogs/1194.md)
+>-[1.20](notes/changelogs/120.md)
 
 ## Latest Minor
 
