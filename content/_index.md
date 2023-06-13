@@ -18,7 +18,7 @@ Running into an issue? Check out these links:
 🐛[Report a Bug](notes/report)  
 💽[Installation](notes/installation)  
 
-Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7). 
+Still need Help? [Drop into our Discord](https://discord.gg/D5bNnw7) or start a post on our [Github Discussions](https://github.com/Lemonszz/Biome-Makeover/discussions) page. 
 
 ## Mod Guide
 

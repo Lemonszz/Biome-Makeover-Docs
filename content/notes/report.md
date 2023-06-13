@@ -29,6 +29,8 @@ You can report bugs to:
 - [Github](https://github.com/Lemonszz/Biome-Makeover/issues)
 - [Discord](https://discord.gg/D5bNnw7) in the  `#🪲issues-and-support` channel
 
+You may also be interested in the [Github Discussions](https://github.com/Lemonszz/Biome-Makeover/discussions)page for more general questions.
+
 Thank you for helping! 
 
 

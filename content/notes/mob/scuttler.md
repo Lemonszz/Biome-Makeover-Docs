@@ -19,7 +19,7 @@ Two friendly Scuttlers can be fed [Pink Buds](notes/item/buds.md) to begin breed
 When a Scuttler detects a [Flowering Barrel Cactus](notes/block/barrel_cactus), they will walk towards it and eat it, causing a  [Pink Buds](notes/item/buds.md) to be left behind.
 
 ## Drops
-When killed Rootlings will drop:
+When killed Scuttlers will drop:
 - 1 [Scuttler Tail](notes/item/scuttler_tail)
 
 ## Stats
