@@ -8,7 +8,7 @@ aliases:
 - enchanted_totem
 ---
 
-The Enchanted Totem of Undying is obtained from the [Adjudicator](notes/imob/adjudicator).
+The Enchanted Totem of Undying is obtained from the [Adjudicator](notes/mob/adjudicator).
 
 Like the vanilla Totem of Undying, if the totem is in your hands when your health reaches 0, it will prevent your death. This will consume the totem.  
 
