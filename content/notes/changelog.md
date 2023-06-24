@@ -6,19 +6,15 @@
 >**Versions**  
 >Changelogs for specific versions, for versions not listed here, see their respective release pages  
 >- [1.19.4](notes/changelogs/1194.md)
->- [1.20](notes/changelogs/120.md)
+>- [1.20/1.20.1](notes/changelogs/120.md)
 
 ## Latest Minor
 
-> [!summary] 1.19.4-1.9.4
+> [!summary] 1.20.0-1.10.1
 >### Bug Fixes
->- Fix a potential issue with other mods and Biome Makeover Signs
->- Fix Blighted Balsa Signs having the incorrect Blighted Balsa bark texture
->
-> ### Other
-> - Updated Blighted Balsa Sapling texture
->- Biome Makeover Sign textures have been moved to the correct `biomemakover:entity/signs/` folder
->- Cladded Armor textures have moved to the correct `biomemakeover:models/armor/` folder
+>- Fix a rare crash with the Adjudicator
+>- Fix the Adjudicator making hurt noises while invulnerable
+>- Fix Biome Makeover subtitles being incorrectly capitalised
 
 ## Latest Major
 
