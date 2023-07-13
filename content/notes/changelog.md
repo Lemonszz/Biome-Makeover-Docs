@@ -10,11 +10,15 @@
 
 ## Latest Minor
 
-> [!summary] 1.20.0-1.10.1
+> [!summary] 1.20.1-1.10.2
 >### Bug Fixes
->- Fix a rare crash with the Adjudicator
->- Fix the Adjudicator making hurt noises while invulnerable
->- Fix Biome Makeover subtitles being incorrectly capitalised
+> - Update to 1.20.1 (Should still work on 1.20.0)
+> - Algorithm tweaks and general clean up (KdotJPG)
+> - Added tr_tr (Turkish) translation (Alpeerkaraca 
+> - Updated zh_cn (Chinese Simplified) translation (NitsugaoO)
+> - Added various Spanish translations (Wallaby)
+> - Fix killing a Marauder Pillager not granting the "Voluntary Exile" advancement
+> - Fix the Major League Glowfish advancement not being obtainable
 
 ## Latest Major
 
