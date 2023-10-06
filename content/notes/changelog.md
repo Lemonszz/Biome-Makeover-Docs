@@ -10,16 +10,10 @@
 
 ## Latest Minor
 
-> [!summary] 1.20.1-1.10.2
->### Translations
-> - Added tr_tr (Turkish) translation (Alpeerkaraca 
-> - Updated zh_cn (Chinese Simplified) translation (NitsugaoO)
-> - Added various Spanish translations (Wallaby)
->
+> [!summary] 1.20.1-1.10.5
 >### Bug Fixes
-> - Algorithm tweaks and general clean up (KdotJPG)
-> - Fix killing a Marauder Pillager not granting the "Voluntary Exile" advancement
-> - Fix the Major League Glowfish advancement not being obtainable
+>- Fix a Fabric Server crash
+>- Fix Tapestries not appearing in the Biome Makeover creative tab
 
 ## Latest Major
 
