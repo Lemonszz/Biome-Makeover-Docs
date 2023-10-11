@@ -15,7 +15,31 @@
 >- Fix a Fabric Server crash
 >- Fix Tapestries not appearing in the Biome Makeover creative tab
 
-## Latest Major
+## Recent Majors
+
+>[!example] 1.20.1-1.11.0
+>
+>### Blocks
+>- Added Reed Thatch, Reed Thatch Slabs and Reed Thatch Stairs
+>- Improved Poltergeist visuals
+>- Adjusted the shape and hitbox of Reeds and Cattails
+>- Adjusted the shape of Willowing Branches
+>- Swamp Cypress leaves will now change color with biome temperature
+>
+>### Advancements
+>- Added 4 peat related advancements
+>- Added a poltegeist related advancement
+>
+> ### Tags
+> - Added `biomemakeover:reeds` tags
+> - Added `biomemakeover:peat` tags
+>
+>### Misc
+>- New Status Effect: Possessed. Obtained by standing inside an active Poltergeist. Will interact with blocks around the affected entity.
+> - Added more variety to the leaf generation of Willow and Swamp Cypress trees
+>
+> ### Bug Fixes
+> - Fixed Willow leaves, Willowing branches and Lily Pad incorrectly applying their coloring in some modded biomes
 
 >[!example] 1.20.0-1.10.0
 > ### Bug Fixes
