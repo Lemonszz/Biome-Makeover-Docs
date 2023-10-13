@@ -9,7 +9,7 @@
     content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}"
   />
   <meta property="og:title" content="{{ .Title }} | Biome Makeover Wiki">
-  <meta property="og:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}">
+  <meta property="og:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}} | Biome Makeover Wiki">
   <meta property="og:type" content="website">
   <meta property="og:image" content="{{.Site.BaseURL}}icon.png">
   <meta property="og:url" content="{{ .Permalink }}">
@@ -17,7 +17,7 @@
   <meta property="og:height" content="200">
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{{ .Title }}" />
-  <meta name="twitter:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
+  <meta name="twitter:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}| Biome Makeover Wiki" />
   <meta name="twitter:image" content="{{.Site.BaseURL}}icon.png">
   {{ range $data.links }}
     {{ if strings.Contains .link "twitter.com" }}
@@ -28,7 +28,7 @@
 
   <title>
     {{ if .Title }}{{ .Title }}{{ else }}{{ $data.page_title | default $.Site.Data.config.page_title }}{{
-    end }}
+    end }} | Biome Makeover Wiki
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
