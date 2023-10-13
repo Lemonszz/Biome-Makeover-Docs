@@ -1,5 +1,5 @@
 ---
-title:  Biome Makeover
+title: Biome Makeover Wiki
 enableToc: false
 ---
 
