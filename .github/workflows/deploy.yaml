@@ -37,3 +37,6 @@ jobs:
           publish_dir: ./public
           publish_branch: master  # deploying branch
           cname: biomemakeover.laserknights.com
+      - name: generate-sitemap
+        uses: cicirello/generate-sitemap@v1.9.2
+    
