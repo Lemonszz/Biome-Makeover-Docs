@@ -27,4 +27,8 @@ It generates in shallow areas of water underneath dirt, with Mossy Peat sticking
 ## Creation  
 Peat can be created by using Pointed Dripstone.
 
-If a **full** Composter is underneath Pointed Dripstone that is dripping Water, there is a chance that the Composter contents will transform into Peat
+If a **full** Composter is underneath Pointed Dripstone that is dripping Water, there is a chance that the Composter contents will transform into Peat.  
+
+A composted that is full of Peat will give off a comparator signal of 9.
+
+![[notes/images/peat_dripping.png]]
