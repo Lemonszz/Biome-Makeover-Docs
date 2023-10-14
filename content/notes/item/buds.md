@@ -9,7 +9,7 @@ aliases:
 
 Buds are items that can be crafted into their color-appropriate Dye.
 
-Buds were previously called "Petals", but were renamed in [1.20](notes/changelogs/1.20) when vanilla introduced their own Pink Petals.
+Buds were previously called "Petals", but were renamed in [1.20](notes/changelogs/120) when vanilla introduced their own Pink Petals.
 
 ## Obtaining
 

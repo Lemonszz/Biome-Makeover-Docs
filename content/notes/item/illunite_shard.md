@@ -6,9 +6,9 @@ tags:
 ---
 
 Illunite Shards are obtained from the following sources:  
-- Breaking a fully grown [Illunite Cluster](notes/block/illunite)
+- Breaking a fully grown [Illunite Cluster](notes/block/illunite_cluster)
 - As a rare drop from Evokers
-- From [Witch Quests](notes/mechanic/witch_quests)
+- From [Witch Quests](notes/mechanic/witch_quest)
 
 
 Illunite Shards are used in:  

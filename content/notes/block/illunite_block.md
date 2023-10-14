@@ -13,7 +13,7 @@ aliases:
 
 The Block of Illunite is part of the [Dark Forest](notes/makeover/dark_forest) makeover.
 
-It can be naturally found in [Illunite Fissures](notes/generation/illunite_fissures) or crafted with 9 [Illunite Shards](notes/item/illunite_shard). 
+It can be naturally found in [Illunite Fissures](notes/generation/illunite_fissure) or crafted with 9 [Illunite Shards](notes/item/illunite_shard). 
 
 You can not convert Blocks of Illunite back into [Illunite Shards](notes/item/illunite_shard). 
 

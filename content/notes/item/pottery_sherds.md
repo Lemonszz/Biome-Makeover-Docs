@@ -18,6 +18,6 @@ Found within [Suspicious Red Sand](notes/block/suspicious_red_sand) that generat
 Depicts an Shovel.
 Found within [Suspicious Red Sand](notes/block/suspicious_red_sand) that generates in [Ghost Towns](notes/structure/ghost_town).
 
-### [Cracked Brick](notes/item/cracked_brick])
+### [Cracked Brick](notes/item/cracked_brick)
 Creates a cracked pattern..
 Obtained by smelting bricks.
