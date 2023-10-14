@@ -10,10 +10,21 @@
 
 ## Latest Minor
 
-> [!summary] 1.20.1-1.10.5
+> [!summary] 1.20.1-1.11.1
+>### Mobs
+>- Stone Golems summoned unnaturally (command, spawn egg, etc) will now be allied to the player
+>
+>### Items
+>- Added Stone Golem Spawn Egg
+>
+>### Config
+>- Biome Makeover curses can now be configured
+>
 >### Bug Fixes
->- Fix a Fabric Server crash
->- Fix Tapestries not appearing in the Biome Makeover creative tab
+>- Fix composters with Peat in them not giving off a comparator signal
+>- Depths curse will no longer affect players who have creative flight
+>- Fix Helmit Crabs not spawning on forge
+>- Fix Stone Golems rendering incorrectly when ndsᴉpǝ poʍu (Named "Dinnerbone or "Grumm")
 
 ## Recent Majors
 
