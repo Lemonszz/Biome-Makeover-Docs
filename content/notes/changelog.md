@@ -10,6 +10,11 @@
 
 ## Latest Minor
 
+> [!summary] 1.20.1-1.11.4
+>
+>### Bug Fixes
+>- Workaround a forge bug that stopped some modded items from generating in Mansion chests
+
 > [!summary] 1.20.1-1.11.3
 >
 >### World Gen
