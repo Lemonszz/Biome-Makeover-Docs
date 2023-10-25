@@ -10,27 +10,12 @@
 
 ## Latest Minor
 
-> [!summary] 1.20.1-1.11.2
+> [!summary] 1.20.1-1.11.3
 >
+>### World Gen
+>- The vanilla mansion loot table can now sometimes be rolled on non-junk Biome Makeover Mansion chests
 >### Bug Fixes
->- Fix compat issue with AE2
-
-
-> [!summary] 1.20.1-1.11.1
->### Mobs
->- Stone Golems summoned unnaturally (command, spawn egg, etc) will now be allied to the player
->
->### Items
->- Added Stone Golem Spawn Egg
->
->### Config
->- Biome Makeover curses can now be configured
->
->### Bug Fixes
->- Fix composters with Peat in them not giving off a comparator signal
->- Depths curse will no longer affect players who have creative flight
->- Fix Helmit Crabs not spawning on forge
->- Fix Stone Golems rendering incorrectly when ndsᴉpǝ poʍu (Named "Dinnerbone or "Grumm")
+>- Cattails now require shears to be collected
 
 ## Recent Majors
 
